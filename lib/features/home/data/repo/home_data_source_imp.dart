@@ -1,8 +1,5 @@
 import 'dart:async';
-import 'dart:convert';
-import 'dart:io';
 
-import 'package:http/http.dart' as http;
 import 'package:injectable/injectable.dart';
 import 'package:news_app/core/api/result_api.dart';
 import 'package:news_app/features/home/data/api/home_api.dart';
